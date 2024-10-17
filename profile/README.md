@@ -42,6 +42,6 @@ At **Turborace Team**, we believe in an open and secure internet where privacy i
 If you have any questions or need support, feel free to contact us:
 
 - **Website**: [turborace.space](https://turborace.space)
-- **Support Email**: [artmvasn@gmail.com](mailto:artmvasn@gmail.com)
+- **Support Email**: [support@turborace.space](mailto:support@turborace.space)
 
 Thank you for trusting **Turborace Team** and our products, **TurboraceVPN** and **TurboraceAI**, to safeguard your online privacy and security, as well as enhance your productivity!
